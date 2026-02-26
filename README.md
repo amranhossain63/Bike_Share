@@ -10,9 +10,10 @@ This project is about filter data of bike sharing user of three city Chicago,Was
 ### Files used
 1. bikeshare.py // is python code
 2. Data file as .csv for cities
-  a. Chicago
-  b. Washington
-  c. New York City
+
+a. Chicago
+b. Washington
+c. New York City
 
 
 ### Credits
