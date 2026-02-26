@@ -12,7 +12,9 @@ This project is about filter data of bike sharing user of three city Chicago,Was
 2. Data file as .csv for cities
    
    a. Chicago
+   
    b. Washington
+   
    c. New York City
 
 
